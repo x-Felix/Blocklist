@@ -72,3 +72,4 @@ f10.baidu.com
 f11.baidu.com
 f12.baidu.com
 sp0.baidu.com
+66.166sh.com
