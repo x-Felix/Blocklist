@@ -1,4 +1,3 @@
-#xiaomi
 api.ad.xiaomi.com
 api.admob.xiaomi.com
 api.d.xiaomi.com
@@ -26,7 +25,6 @@ logupdate.avlyun.sec.miui.com
 mazu.sec.miui.com
 feedback.miui.com
 data.sec.miui.com
-#ad
 sociallinkster.com
 macitbetter.com
 alogs.umeng.com
@@ -57,14 +55,12 @@ pf-2.pchome.net
 pf.pchome.net
 dimalian.space
 tanit-dio.com
-#telemetry
 graph.facebook.com
 log.zoom.us
 e.reddit.com
 v10.events.data.microsoft.com
 activity.windows.com
 self.events.data.microsoft.com
-#baidu
 t10.baidu.com
 t11.baidu.com
 t12.baidu.com
